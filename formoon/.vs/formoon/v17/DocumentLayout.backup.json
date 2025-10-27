@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cju\\Documents\\GitHub\\programming-2025-class\\formoon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D68415D2-2802-47C7-BADB-FBC4A2EFF92A}|formoon\\formoon.vcxproj|C:\\Users\\Cju\\Documents\\GitHub\\programming-2025-class\\formoon\\formoon\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D68415D2-2802-47C7-BADB-FBC4A2EFF92A}|formoon\\formoon.vcxproj|solutionrelative:formoon\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Cju\\Documents\\GitHub\\programming-2025-class\\formoon\\formoon\\main.cpp",
+              "RelativeDocumentMoniker": "formoon\\main.cpp",
+              "ToolTip": "C:\\Users\\Cju\\Documents\\GitHub\\programming-2025-class\\formoon\\formoon\\main.cpp*",
+              "RelativeToolTip": "formoon\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T07:28:40.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
