@@ -1,3 +1,0 @@
-﻿  main.cpp
-main.obj : error LNK2019: "void __cdecl swap_pointer(int *,int *)" (?swap_pointer@@YAXPEAH0@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
-C:\Users\Cju\Documents\GitHub\programming-2025-class\11-17\x64\Debug\11-17.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
