@@ -133,7 +133,7 @@ int main(void)
 
     // 왜 이 실습에서는 temp에 문자열을 복사하는가?
     // strtok 함수는 원본 문자열의 구분자(공백 등)를 NULL 문자(\0)로 바꿔버려서
-    //      원본 데이터(sentence)를 훼손하기 때문입니다. 보존을 위해 복사본을 씁니다.
+    // 원본 데이터를 훼손하기 때문입니다. 보존을 위해 복사본을 씁니다.
     strcpy(p_temp, p_sentence);
 
     char* token = strtok(p_temp, " "); // 첫 번째 토큰 추출 (구분자: 공백)
